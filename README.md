@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data - Project
 
-## The script run_analysis.R performs the 5 steps given in the project as given below -
+### The script run_analysis.R performs the 5 steps given in the project as given below -
 
   *  1. All the similar data is merged using the rbind() function. By similar means those files having the same number of columns and referring to the same varibles.
   *  2. Take only those columns with the mean and standard deviation measures are taken from the whole dataset. After extracting these columns, they are given the names from features.txt.
